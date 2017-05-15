@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Aquamarine">#3F51B5</color>
+    <color name="song_title_color">#ffffff</color>
+    <color name="artist_color">#cccccccc</color>
+    <color name="rec_line_color">#7fcccccc</color>
+</resources>

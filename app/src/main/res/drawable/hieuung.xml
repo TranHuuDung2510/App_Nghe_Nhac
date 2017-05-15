@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:duration="100" android:drawable="@drawable/miniona"/>
+    <item android:duration="100" android:drawable="@drawable/miniona"/>
+    <item android:duration="100" android:drawable="@drawable/minionb"/>
+    <item android:duration="100" android:drawable="@drawable/minionc"/>
+    <item android:duration="100" android:drawable="@drawable/miniond"/>
+    <item android:duration="100" android:drawable="@drawable/minione"/>
+    <item android:duration="100" android:drawable="@drawable/minionf"/>
+    <item android:duration="100" android:drawable="@drawable/miniong"/>
+    <item android:duration="100" android:drawable="@drawable/minionh"/>
+    <item android:duration="100" android:drawable="@drawable/minionk"/>
+    <item android:duration="100" android:drawable="@drawable/minionl"/>
+
+</animation-list>
